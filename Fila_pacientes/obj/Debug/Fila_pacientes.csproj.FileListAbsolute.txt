@@ -1,0 +1,16 @@
+C:\Users\miguel\source\repos\Fila_pacientes\Fila_pacientes\bin\Debug\Fila_pacientes.exe.config
+C:\Users\miguel\source\repos\Fila_pacientes\Fila_pacientes\bin\Debug\Fila_pacientes.exe
+C:\Users\miguel\source\repos\Fila_pacientes\Fila_pacientes\bin\Debug\Fila_pacientes.pdb
+C:\Users\miguel\source\repos\Fila_pacientes\Fila_pacientes\obj\Debug\Fila_pacientes.csproj.AssemblyReference.cache
+C:\Users\miguel\source\repos\Fila_pacientes\Fila_pacientes\obj\Debug\Fila_pacientes.csproj.CoreCompileInputs.cache
+C:\Users\miguel\source\repos\Fila_pacientes\Fila_pacientes\obj\Debug\Fila_pacientes.exe
+C:\Users\miguel\source\repos\Fila_pacientes\Fila_pacientes\obj\Debug\Fila_pacientes.pdb
+C:\Users\miguel\source\repos\Fila_pacientes\Fila_pacientes\obj\Debug\Fila_pacientes.exe.config
+E:\Programa fila de doente\Fila_pacientes\Fila_pacientes\bin\Debug\Fila_pacientes.exe.config
+E:\Programa fila de doente\Fila_pacientes\Fila_pacientes\bin\Debug\Fila_pacientes.exe
+E:\Programa fila de doente\Fila_pacientes\Fila_pacientes\bin\Debug\Fila_pacientes.pdb
+E:\Programa fila de doente\Fila_pacientes\Fila_pacientes\obj\Debug\Fila_pacientes.csproj.AssemblyReference.cache
+E:\Programa fila de doente\Fila_pacientes\Fila_pacientes\obj\Debug\Fila_pacientes.exe.config
+E:\Programa fila de doente\Fila_pacientes\Fila_pacientes\obj\Debug\Fila_pacientes.csproj.CoreCompileInputs.cache
+E:\Programa fila de doente\Fila_pacientes\Fila_pacientes\obj\Debug\Fila_pacientes.exe
+E:\Programa fila de doente\Fila_pacientes\Fila_pacientes\obj\Debug\Fila_pacientes.pdb
