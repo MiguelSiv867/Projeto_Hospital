@@ -65,7 +65,7 @@ namespace Fila_pacientes
                             {
                                 if (pessoa[i].Prioridade == prioridadeAtual)
                                 {
-                                    Console.WriteLine($"{i + 1}) Nome: {pessoa[i].Nome}, Idade: {pessoa[i].Idade}, CPF: {pessoa[i].CPF}\n CEP: {pessoa[i].CEP}, Sintomas: {pessoa[i].Sintomas}");
+                                    Console.WriteLine($"{i + 1}) Nome: {pessoa[i].Nome}, Idade: {pessoa[i].Idade}, CPF: {pessoa[i].CPF}\n CEP: {pessoa[i].CEP}, Sintomas: {pessoa[i].Sintomas}\n");
                                 }
                             }
                         }
