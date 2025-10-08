@@ -14,3 +14,10 @@ E:\Programa fila de doente\Fila_pacientes\Fila_pacientes\obj\Debug\Fila_paciente
 E:\Programa fila de doente\Fila_pacientes\Fila_pacientes\obj\Debug\Fila_pacientes.csproj.CoreCompileInputs.cache
 E:\Programa fila de doente\Fila_pacientes\Fila_pacientes\obj\Debug\Fila_pacientes.exe
 E:\Programa fila de doente\Fila_pacientes\Fila_pacientes\obj\Debug\Fila_pacientes.pdb
+C:\Users\lab3135\Desktop\Projeto_Hospital\Fila_pacientes\bin\Debug\Fila_pacientes.exe.config
+C:\Users\lab3135\Desktop\Projeto_Hospital\Fila_pacientes\bin\Debug\Fila_pacientes.exe
+C:\Users\lab3135\Desktop\Projeto_Hospital\Fila_pacientes\bin\Debug\Fila_pacientes.pdb
+C:\Users\lab3135\Desktop\Projeto_Hospital\Fila_pacientes\obj\Debug\Fila_pacientes.csproj.AssemblyReference.cache
+C:\Users\lab3135\Desktop\Projeto_Hospital\Fila_pacientes\obj\Debug\Fila_pacientes.csproj.CoreCompileInputs.cache
+C:\Users\lab3135\Desktop\Projeto_Hospital\Fila_pacientes\obj\Debug\Fila_pacientes.exe
+C:\Users\lab3135\Desktop\Projeto_Hospital\Fila_pacientes\obj\Debug\Fila_pacientes.pdb

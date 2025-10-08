@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Programa fila de doente\\Fila_pacientes\\",
+  "WorkspaceRootPath": "C:\\Users\\lab3135\\Desktop\\Projeto_Hospital\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C632D288-5929-4CA0-BF3C-EA12CAB50908}|Fila_pacientes\\Fila_pacientes.csproj|e:\\programa fila de doente\\fila_pacientes\\fila_pacientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C632D288-5929-4CA0-BF3C-EA12CAB50908}|Fila_pacientes\\Fila_pacientes.csproj|c:\\users\\lab3135\\desktop\\projeto_hospital\\fila_pacientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C632D288-5929-4CA0-BF3C-EA12CAB50908}|Fila_pacientes\\Fila_pacientes.csproj|solutionrelative:fila_pacientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C632D288-5929-4CA0-BF3C-EA12CAB50908}|Fila_pacientes\\Fila_pacientes.csproj|E:\\Programa fila de doente\\Fila_pacientes\\fila_pacientes\\pacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C632D288-5929-4CA0-BF3C-EA12CAB50908}|Fila_pacientes\\Fila_pacientes.csproj|C:\\Users\\lab3135\\Desktop\\Projeto_Hospital\\fila_pacientes\\pacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C632D288-5929-4CA0-BF3C-EA12CAB50908}|Fila_pacientes\\Fila_pacientes.csproj|solutionrelative:fila_pacientes\\pacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Pacientes.cs",
-              "DocumentMoniker": "E:\\Programa fila de doente\\Fila_pacientes\\Fila_pacientes\\Pacientes.cs",
+              "DocumentMoniker": "C:\\Users\\lab3135\\Desktop\\Projeto_Hospital\\Fila_pacientes\\Pacientes.cs",
               "RelativeDocumentMoniker": "Fila_pacientes\\Pacientes.cs",
-              "ToolTip": "E:\\Programa fila de doente\\Fila_pacientes\\Fila_pacientes\\Pacientes.cs",
+              "ToolTip": "C:\\Users\\lab3135\\Desktop\\Projeto_Hospital\\Fila_pacientes\\Pacientes.cs",
               "RelativeToolTip": "Fila_pacientes\\Pacientes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Programa fila de doente\\Fila_pacientes\\Fila_pacientes\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab3135\\Desktop\\Projeto_Hospital\\Fila_pacientes\\Program.cs",
               "RelativeDocumentMoniker": "Fila_pacientes\\Program.cs",
-              "ToolTip": "E:\\Programa fila de doente\\Fila_pacientes\\Fila_pacientes\\Program.cs",
+              "ToolTip": "C:\\Users\\lab3135\\Desktop\\Projeto_Hospital\\Fila_pacientes\\Program.cs",
               "RelativeToolTip": "Fila_pacientes\\Program.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAkwHkAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAASwBMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T23:56:56.501Z",
               "EditorCaption": ""
