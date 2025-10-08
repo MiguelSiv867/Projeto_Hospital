@@ -17,11 +17,11 @@ namespace Fila_pacientes
                     "2. Lista de pacientes registrados\n" +
                     "3. Registrar sintomas do paciente\n" +
                     "4. Redefinir informação do paciente\n" +
-                    "Q. Sair\n\nEscolha uma opção:");
+                    "q. Sair\n\nEscolha uma opção:");
 
                 resposta = Console.ReadLine();
 
-                switch (resposta.ToUpper())
+                switch (resposta)
                 {
 
                     case "1":
@@ -120,7 +120,7 @@ namespace Fila_pacientes
                         break;
 
                     
-                    case "Q":
+                    case "q":
 
                         break;
 
@@ -129,7 +129,7 @@ namespace Fila_pacientes
                         break;
                 }
 
-            } while (resposta != "Q");
+            } while (resposta != "q");
         }
     }
 }
